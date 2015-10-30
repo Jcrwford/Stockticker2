@@ -1,7 +1,7 @@
 
 /**
- * Shan Sangha.
- */
+ * Shan Sangha and Shan
+ */ 
 
 var express = require('express')
   , routes = require('./routes')
