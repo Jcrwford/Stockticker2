@@ -1,6 +1,6 @@
 
 /**
- * Shan Sangha.
+ * Shan Sangha and Jim Caldwell
  */
 /* added by jim crawford */
 var express = require('express')
